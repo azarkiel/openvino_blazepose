@@ -1,0 +1,663 @@
+2021-06-29 15:31:34,394:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S1_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 83.1
+FPS_MAX= 6278.9
+FPS_MIN= 2.2
+MEM_AVG= 204.2MB
+MEM_MAX= 205.7MB
+MEM_MIN= 172.6MB
+CPU_AVG= 28.3%
+CPU_MAX= 104.2%
+CPU_MIN= 0.6%
+
+2021-06-29 15:34:15,003:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S1_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 90.4
+FPS_MAX= 11618.6
+FPS_MIN= 17.1
+MEM_AVG= 202.1MB
+MEM_MAX= 203.3MB
+MEM_MIN= 172.5MB
+CPU_AVG= 28.4%
+CPU_MAX= 97.7%
+CPU_MIN= 4.1%
+
+2021-06-29 15:35:38,278:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S2_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 116.9
+FPS_MAX= 42366.7
+FPS_MIN= 17.5
+MEM_AVG= 201.5MB
+MEM_MAX= 202.9MB
+MEM_MIN= 171.2MB
+CPU_AVG= 29.4%
+CPU_MAX= 104.2%
+CPU_MIN= 4.1%
+
+2021-06-29 15:37:00,211:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S2_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 100.3
+FPS_MAX= 10782.3
+FPS_MIN= 17.0
+MEM_AVG= 200.4MB
+MEM_MAX= 201.6MB
+MEM_MIN= 169.8MB
+CPU_AVG= 28.4%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 15:39:49,813:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S3_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 78.0
+FPS_MAX= 3100.0
+FPS_MIN= 11.4
+MEM_AVG= 202.6MB
+MEM_MAX= 204.4MB
+MEM_MIN= 170.0MB
+CPU_AVG= 28.9%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 15:42:59,318:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S3_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 70.0
+FPS_MAX= 2348.4
+FPS_MIN= 7.9
+MEM_AVG= 201.1MB
+MEM_MAX= 202.6MB
+MEM_MIN= 171.1MB
+CPU_AVG= 28.8%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 15:44:25,196:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S4_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 76.4
+FPS_MAX= 3477.9
+FPS_MIN= 17.4
+MEM_AVG= 201.5MB
+MEM_MAX= 203.0MB
+MEM_MIN= 169.4MB
+CPU_AVG= 28.8%
+CPU_MAX= 97.7%
+CPU_MIN= 4.1%
+
+2021-06-29 15:45:58,476:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S4_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 80.9
+FPS_MAX= 26379.3
+FPS_MIN= 16.3
+MEM_AVG= 201.3MB
+MEM_MAX= 202.2MB
+MEM_MIN= 171.2MB
+CPU_AVG= 29.2%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 15:48:52,826:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S5_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 83.4
+FPS_MAX= 28926.2
+FPS_MIN= 17.2
+MEM_AVG= 202.8MB
+MEM_MAX= 204.0MB
+MEM_MIN= 170.2MB
+CPU_AVG= 28.7%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 15:51:43,150:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S5_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 90.8
+FPS_MAX= 14027.8
+FPS_MIN= 13.5
+MEM_AVG= 201.3MB
+MEM_MAX= 202.2MB
+MEM_MIN= 170.8MB
+CPU_AVG= 29.7%
+CPU_MAX= 104.2%
+CPU_MIN= 4.1%
+
+2021-06-29 15:53:10,008:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S6_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 103.2
+FPS_MAX= 45590.3
+FPS_MIN= 16.1
+MEM_AVG= 202.4MB
+MEM_MAX= 203.9MB
+MEM_MIN= 170.0MB
+CPU_AVG= 30.0%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 15:54:42,834:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S6_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 76.3
+FPS_MAX= 9576.0
+FPS_MIN= 12.5
+MEM_AVG= 200.4MB
+MEM_MAX= 201.5MB
+MEM_MIN= 170.1MB
+CPU_AVG= 29.1%
+CPU_MAX= 104.2%
+CPU_MIN= 2.1%
+
+2021-06-29 15:56:15,736:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S7_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 86.9
+FPS_MAX= 45100.0
+FPS_MIN= 13.1
+MEM_AVG= 202.2MB
+MEM_MAX= 203.1MB
+MEM_MIN= 172.9MB
+CPU_AVG= 28.0%
+CPU_MAX= 97.7%
+CPU_MIN= 2.8%
+
+2021-06-29 15:57:43,189:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S7_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 79.9
+FPS_MAX= 3326.2
+FPS_MIN= 13.1
+MEM_AVG= 201.0MB
+MEM_MAX= 201.8MB
+MEM_MIN= 171.6MB
+CPU_AVG= 28.6%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 15:59:11,251:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S8_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 80.1
+FPS_MAX= 8630.3
+FPS_MIN= 6.7
+MEM_AVG= 201.1MB
+MEM_MAX= 202.4MB
+MEM_MIN= 171.3MB
+CPU_AVG= 29.0%
+CPU_MAX= 104.2%
+CPU_MIN= 4.1%
+
+2021-06-29 16:00:40,355:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S8_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 72.8
+FPS_MAX= 940.0
+FPS_MIN= 6.0
+MEM_AVG= 200.3MB
+MEM_MAX= 201.3MB
+MEM_MIN= 169.3MB
+CPU_AVG= 29.3%
+CPU_MAX= 104.2%
+CPU_MIN= 0.8%
+
+2021-06-29 16:02:46,170:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S9_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 54.7
+FPS_MAX= 961.1
+FPS_MIN= 4.2
+MEM_AVG= 223.7MB
+MEM_MAX= 224.7MB
+MEM_MIN= 183.5MB
+CPU_AVG= 29.2%
+CPU_MAX= 104.2%
+CPU_MIN= 1.2%
+
+2021-06-29 16:03:53,146:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S9_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 62.1
+FPS_MAX= 10591.7
+FPS_MIN= 12.4
+MEM_AVG= 225.5MB
+MEM_MAX= 226.3MB
+MEM_MIN= 185.7MB
+CPU_AVG= 28.4%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 16:05:46,633:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S1_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 60.3
+FPS_MAX= 73.3
+FPS_MIN= 5.5
+MEM_AVG= 196.7MB
+MEM_MAX= 198.0MB
+MEM_MIN= 171.4MB
+CPU_AVG= 27.2%
+CPU_MAX= 57.0%
+CPU_MIN= 1.7%
+
+2021-06-29 16:07:44,777:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S2_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 59.7
+FPS_MAX= 73.1
+FPS_MIN= 5.0
+MEM_AVG= 197.7MB
+MEM_MAX= 199.7MB
+MEM_MIN= 170.8MB
+CPU_AVG= 25.9%
+CPU_MAX= 57.0%
+CPU_MIN= 1.0%
+
+2021-06-29 16:09:44,553:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S2_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 56.8
+FPS_MAX= 74.8
+FPS_MIN= 10.5
+MEM_AVG= 196.8MB
+MEM_MAX= 198.1MB
+MEM_MIN= 171.0MB
+CPU_AVG= 24.3%
+CPU_MAX= 57.0%
+CPU_MIN= 2.8%
+
+2021-06-29 16:13:02,833:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S3_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 63.6
+FPS_MAX= 72.2
+FPS_MIN= 28.4
+MEM_AVG= 196.9MB
+MEM_MAX= 198.4MB
+MEM_MIN= 170.1MB
+CPU_AVG= 28.7%
+CPU_MAX= 60.8%
+CPU_MIN= 4.1%
+
+2021-06-29 16:16:25,599:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S3_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 61.6
+FPS_MAX= 75.2
+FPS_MIN= 21.8
+MEM_AVG= 193.7MB
+MEM_MAX= 196.6MB
+MEM_MIN= 170.8MB
+CPU_AVG= 29.8%
+CPU_MAX= 57.0%
+CPU_MIN= 2.8%
+
+2021-06-29 16:18:08,449:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S4_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 61.4
+FPS_MAX= 73.7
+FPS_MIN= 25.0
+MEM_AVG= 196.8MB
+MEM_MAX= 198.1MB
+MEM_MIN= 169.3MB
+CPU_AVG= 21.4%
+CPU_MAX= 52.1%
+CPU_MIN= 4.1%
+
+2021-06-29 16:19:59,647:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S4_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 61.4
+FPS_MAX= 90.1
+FPS_MIN= 26.9
+MEM_AVG= 197.0MB
+MEM_MAX= 198.0MB
+MEM_MIN= 171.3MB
+CPU_AVG= 25.9%
+CPU_MAX= 52.1%
+CPU_MIN= 2.8%
+
+2021-06-29 16:23:32,255:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S5_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 61.4
+FPS_MAX= 79.4
+FPS_MIN= 21.1
+MEM_AVG= 199.0MB
+MEM_MAX= 200.3MB
+MEM_MIN= 171.6MB
+CPU_AVG= 22.8%
+CPU_MAX= 60.8%
+CPU_MIN= 2.8%
+
+2021-06-29 16:27:34,866:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S5_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 56.0
+FPS_MAX= 77.1
+FPS_MIN= 12.5
+MEM_AVG= 198.3MB
+MEM_MAX= 199.5MB
+MEM_MIN= 171.4MB
+CPU_AVG= 24.5%
+CPU_MAX= 52.1%
+CPU_MIN= 2.8%
+
+2021-06-29 16:29:21,090:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S6_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 61.0
+FPS_MAX= 77.3
+FPS_MIN= 9.1
+MEM_AVG= 197.5MB
+MEM_MAX= 199.1MB
+MEM_MIN= 171.1MB
+CPU_AVG= 28.0%
+CPU_MAX= 60.8%
+CPU_MIN= 2.8%
+
+2021-06-29 16:31:04,712:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S6_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 60.9
+FPS_MAX= 76.8
+FPS_MIN= 23.3
+MEM_AVG= 197.5MB
+MEM_MAX= 198.6MB
+MEM_MIN= 171.2MB
+CPU_AVG= 28.0%
+CPU_MAX= 57.0%
+CPU_MIN= 2.8%
+
+2021-06-29 16:32:53,194:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S7_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 59.8
+FPS_MAX= 72.9
+FPS_MIN= 17.2
+MEM_AVG= 198.1MB
+MEM_MAX= 199.3MB
+MEM_MIN= 171.7MB
+CPU_AVG= 24.7%
+CPU_MAX= 60.8%
+CPU_MIN= 2.8%
+
+2021-06-29 16:34:44,142:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S7_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 59.4
+FPS_MAX= 82.3
+FPS_MIN= 21.2
+MEM_AVG= 197.0MB
+MEM_MAX= 198.0MB
+MEM_MIN= 170.3MB
+CPU_AVG= 24.1%
+CPU_MAX= 52.1%
+CPU_MIN= 2.8%
+
+2021-06-29 16:38:01,915:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S8_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 37.6
+FPS_MAX= 80.0
+FPS_MIN= 4.7
+MEM_AVG= 196.6MB
+MEM_MAX= 197.9MB
+MEM_MIN= 170.6MB
+CPU_AVG= 16.1%
+CPU_MAX= 52.1%
+CPU_MIN= 1.7%
+
+2021-06-29 16:42:19,024:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S8_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 27.5
+FPS_MAX= 91.0
+FPS_MIN= 6.4
+MEM_AVG= 196.7MB
+MEM_MAX= 197.5MB
+MEM_MIN= 169.8MB
+CPU_AVG= 14.1%
+CPU_MAX= 52.1%
+CPU_MIN= 1.0%
+
+2021-06-29 16:46:44,348:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S9_seq1_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 27.5
+FPS_MAX= 76.1
+FPS_MIN= 6.3
+MEM_AVG= 218.5MB
+MEM_MAX= 219.5MB
+MEM_MIN= 183.2MB
+CPU_AVG= 13.8%
+CPU_MAX= 52.1%
+CPU_MIN= 1.2%
+
+2021-06-29 16:48:52,623:INFO:
+ARGS=BlazeposeOpenvinoTest.py --noview --inputfile=D:/00_TFM_dataset/S9_seq2_video_8.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 30.5
+FPS_MAX= 66.7
+FPS_MIN= 9.6
+MEM_AVG= 219.6MB
+MEM_MAX= 220.3MB
+MEM_MIN= 184.1MB
+CPU_AVG= 15.9%
+CPU_MAX= 52.1%
+CPU_MIN= 2.1%
+
+2021-07-03 16:55:34,720:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -i D:\00_TFM_dataset\promo_seleccion.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 33.0
+FPS_MAX= 37.1
+FPS_MIN= 1.9
+MEM_AVG= 296.5MB
+MEM_MAX= 298.1MB
+MEM_MIN= 225.7MB
+CPU_AVG= 25.1%
+CPU_MAX= 89.5%
+CPU_MIN= 1.7%
+
+2021-07-03 16:58:20,796:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -i D:\00_TFM_dataset\promo_seleccion_720.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 52.3
+FPS_MAX= 62.5
+FPS_MIN= 1.3
+MEM_AVG= 226.2MB
+MEM_MAX= 226.5MB
+MEM_MIN= 186.8MB
+CPU_AVG= 30.1%
+CPU_MAX= 104.2%
+CPU_MIN= 1.3%
+
+2021-07-03 16:58:49,614:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -i D:\00_TFM_dataset\promo_seleccion_480.mp4
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 62.5
+FPS_MAX= 90.8
+FPS_MIN= 3.3
+MEM_AVG= 197.2MB
+MEM_MAX= 197.6MB
+MEM_MIN= 169.1MB
+CPU_AVG= 29.3%
+CPU_MAX= 60.8%
+CPU_MIN= 2.5%
+
+2021-07-04 09:09:11,021:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 31.6
+FPS_MAX= 69.8
+FPS_MIN= 7.8
+MEM_AVG= 198.1MB
+MEM_MAX= 208.3MB
+MEM_MIN= 183.1MB
+CPU_AVG= 15.8%
+CPU_MAX= 54.6%
+CPU_MIN= 1.2%
+
+2021-07-04 09:12:48,907:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -g
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 31.7
+FPS_MAX= 83.0
+FPS_MIN= 2.0
+MEM_AVG= 189.8MB
+MEM_MAX= 207.0MB
+MEM_MIN= 184.3MB
+CPU_AVG= 15.6%
+CPU_MAX= 60.8%
+CPU_MIN= 0.8%
+
+2021-07-04 09:15:01,229:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -g
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 31.8
+FPS_MAX= 85.0
+FPS_MIN= 15.5
+MEM_AVG= 195.7MB
+MEM_MAX= 209.2MB
+MEM_MIN= 183.1MB
+CPU_AVG= 15.5%
+CPU_MAX= 52.1%
+CPU_MIN= 2.1%
+
+2021-07-04 09:22:29,272:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -g
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 31.7
+FPS_MAX= 98.7
+FPS_MIN= 10.1
+MEM_AVG= 191.1MB
+MEM_MAX= 208.9MB
+MEM_MIN= 182.7MB
+CPU_AVG= 15.1%
+CPU_MAX= 60.8%
+CPU_MIN= 1.4%
+
+2021-07-04 09:23:25,420:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -g
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 31.8
+FPS_MAX= 75.4
+FPS_MIN= 12.4
+MEM_AVG= 199.9MB
+MEM_MAX= 211.5MB
+MEM_MIN= 186.3MB
+CPU_AVG= 14.6%
+CPU_MAX= 52.1%
+CPU_MIN= 2.1%
+
+2021-07-04 09:24:54,613:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -g
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 31.4
+FPS_MAX= 82.3
+FPS_MIN= 7.6
+MEM_AVG= 191.7MB
+MEM_MAX= 208.7MB
+MEM_MIN= 183.1MB
+CPU_AVG= 15.4%
+CPU_MAX= 104.2%
+CPU_MIN= 1.7%
+
+2021-07-04 09:27:47,950:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -g
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 31.6
+FPS_MAX= 82.4
+FPS_MIN= 12.6
+MEM_AVG= 190.7MB
+MEM_MAX= 208.7MB
+MEM_MIN= 182.5MB
+CPU_AVG= 15.3%
+CPU_MAX= 60.8%
+CPU_MIN= 1.7%
+
+2021-07-12 09:11:24,339:INFO:
+ARGS=BlazeposeOpenvinoTest.py -g
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 32.0
+FPS_MAX= 100.0
+FPS_MIN= 0.9
+MEM_AVG= 192.8MB
+MEM_MAX= 206.4MB
+MEM_MIN= 181.9MB
+CPU_AVG= 15.9%
+CPU_MAX= 52.1%
+CPU_MIN= 1.7%
+
+2021-07-12 09:12:10,505:INFO:
+ARGS=BlazeposeOpenvinoTest.py -g --printmetrics
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 31.7
+FPS_MAX= 89.9
+FPS_MIN= 1.4
+MEM_AVG= 194.8MB
+MEM_MAX= 209.7MB
+MEM_MIN= 183.9MB
+CPU_AVG= 15.2%
+CPU_MAX= 78.1%
+CPU_MIN= 2.1%
+
+2021-07-12 09:22:31,939:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 31.9
+FPS_MAX= 81.9
+FPS_MIN= 13.9
+MEM_AVG= 209.6MB
+MEM_MAX= 210.4MB
+MEM_MIN= 184.5MB
+CPU_AVG= 15.5%
+CPU_MAX= 25.2%
+CPU_MIN= 2.8%
+
+2021-07-12 09:23:12,576:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -g
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 32.4
+FPS_MAX= 89.9
+FPS_MIN= 12.5
+MEM_AVG= 208.1MB
+MEM_MAX= 209.2MB
+MEM_MIN= 184.2MB
+CPU_AVG= 14.5%
+CPU_MAX= 52.1%
+CPU_MIN= 2.1%
+
+2021-07-12 09:23:35,913:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -g -i 0
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 32.6
+FPS_MAX= 74.7
+FPS_MIN= 12.8
+MEM_AVG= 208.6MB
+MEM_MAX= 209.3MB
+MEM_MIN= 183.9MB
+CPU_AVG= 16.6%
+CPU_MAX= 52.1%
+CPU_MIN= 2.1%
+
+2021-07-12 09:23:46,691:INFO:
+ARGS=BlazeposeOpenvinoTest.py --printmetrics -g -i 1
+PROGRAM= BlazeposeOpenvinoTest.py
+FPS_AVG= 1.0
+FPS_MAX= 1.0
+FPS_MIN= 1.0
+MEM_AVG= 171.3MB
+MEM_MAX= 173.5MB
+MEM_MIN= 160.9MB
+CPU_AVG= 0.6%
+CPU_MAX= 0.6%
+CPU_MIN= 0.6%
+

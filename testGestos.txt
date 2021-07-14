@@ -1,0 +1,2 @@
+python BlazeposeOpenvinoTest.py --printmetrics -g -i 0
+python BlazeposeOpenvinoTest.py --printmetrics -g -i 1
